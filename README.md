@@ -8,7 +8,7 @@ The ResNet Architecture is in ResNetArchitecture2.py. You may use it to fine tun
 
 #Once you have successfully ran DataLoader.py, you may run train.py to train your model. The program should save the weight of the model once it meets an validating accuracy of 85% or above
 
-
+#Use model_eval to evaluate your model with random images
 
 #Setting up the ESP32:
 Import cam.cpp to main and configure it as you should
